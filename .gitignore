@@ -3,4 +3,4 @@
 *.pbxuser
 .DS_Store
 build
-www/phonegap.js
+www/phonegap.0.9.5.1.min.js
