@@ -3,7 +3,7 @@ $(document).ready(function(){
 		var output = $('#output');
 	
 		$.ajax({
-			url: 'http://localhost/landmarks/landmarks.php',
+			url: 'http://samcroft.co.uk/demos/updated-load-data-into-phonegap/landmarks.php',
 			dataType: 'jsonp',
 			jsonp: 'jsoncallback',
 			timeout: 5000,
