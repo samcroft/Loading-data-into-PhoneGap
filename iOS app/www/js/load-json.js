@@ -17,7 +17,7 @@ $(document).ready(function(){
 				});
 			},
 			error: function(){
-				output.text('There was an error loading the data.')
+			   output.text('There was an error loading the data.');
 			}
 		});
 	});
