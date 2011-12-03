@@ -1,6 +1,7 @@
 *.mode1v3
 *.perspectivev3
 *.pbxuser
+xcuserdata
 .DS_Store
 build
 www/phonegap.0.9.5.1.min.js
