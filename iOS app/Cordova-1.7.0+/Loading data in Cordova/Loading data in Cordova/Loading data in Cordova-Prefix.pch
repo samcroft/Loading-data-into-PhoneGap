@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Loading data in Cordova' target in the 'Loading data in Cordova' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
